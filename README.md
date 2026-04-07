@@ -163,13 +163,6 @@ Inventory and stock tracking system with real-time visibility
 - Clean MVC architecture  
 - Scalable for enterprise usage  
 
-
----
-
-## 📈 Development Activity  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Saif-Amer-20&theme=tokyonight)
-
 ---
 
 ## 🧭 Development Philosophy  
