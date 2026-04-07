@@ -163,13 +163,6 @@ Inventory and stock tracking system with real-time visibility
 - Clean MVC architecture  
 - Scalable for enterprise usage  
 
----
-
-## 📊 GitHub Analytics  
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Saif-Amer-20&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Amer-20&layout=compact&theme=tokyonight)
 
 ---
 
@@ -200,8 +193,7 @@ I’m open to collaboration on:
 
 ## 🌐 Connect  
 
-- 💼 LinkedIn: (add your link)  
-- 🌍 Portfolio: (recommended)  
+- 💼 LinkedIn: [(add your link) ](https://www.linkedin.com/in/saif-amer-7b5670119/) 
 
 ---
 
