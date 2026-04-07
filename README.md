@@ -186,7 +186,7 @@ I’m open to collaboration on:
 
 ## 🌐 Connect  
 
-- 💼 LinkedIn: [(add your link) ](https://www.linkedin.com/in/saif-amer-7b5670119/) 
+- 💼 LinkedIn: https://www.linkedin.com/in/saif-amer-7b5670119/
 
 ---
 
